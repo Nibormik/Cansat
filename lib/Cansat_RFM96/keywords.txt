@@ -1,0 +1,2 @@
+Cansat_RFM96	KEYWORD1
+send	KEYWORD2
